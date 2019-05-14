@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>Brittany-Spaniel-Hunting-Dogs-Picture</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\Brittany-Spaniel-Hunting-Dogs-Picture.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>258</xmin>
+      <ymin>156</ymin>
+      <xmax>645</xmax>
+      <ymax>529</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>b882e1b25a3046e5bffc6fb4553ca39a</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\b882e1b25a3046e5bffc6fb4553ca39a.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>245</xmin>
+      <ymin>87</ymin>
+      <xmax>672</xmax>
+      <ymax>490</ymax>
+    </bndbox>
+  </object>
+</annotation>

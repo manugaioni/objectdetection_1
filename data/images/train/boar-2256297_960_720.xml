@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>boar-2256297_960_720</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\boar-2256297_960_720.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cinghiale</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>136</xmin>
+      <ymin>5</ymin>
+      <xmax>629</xmax>
+      <ymax>566</ymax>
+    </bndbox>
+  </object>
+</annotation>

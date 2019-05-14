@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>brittany_spaniel_puppy_dog_blank_note_card-rcc5d8fad04244b48b096087c7fdc3431_em0ck_307</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\brittany_spaniel_puppy_dog_blank_note_card-rcc5d8fad04244b48b096087c7fdc3431_em0ck_307.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>114</xmin>
+      <ymin>46</ymin>
+      <xmax>753</xmax>
+      <ymax>575</ymax>
+    </bndbox>
+  </object>
+</annotation>

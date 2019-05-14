@@ -1,0 +1,38 @@
+<annotation>
+  <folder>train</folder>
+  <filename>B_La caccia non va abolita</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\B_La caccia non va abolita.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cacciatore</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>364</xmin>
+      <ymin>89</ymin>
+      <xmax>525</xmax>
+      <ymax>542</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cacciatore</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>512</xmin>
+      <ymin>130</ymin>
+      <xmax>679</xmax>
+      <ymax>518</ymax>
+    </bndbox>
+  </object>
+</annotation>
