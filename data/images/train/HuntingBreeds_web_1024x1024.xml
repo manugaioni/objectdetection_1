@@ -1,0 +1,74 @@
+<annotation>
+  <folder>train</folder>
+  <filename>HuntingBreeds_web_1024x1024</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\HuntingBreeds_web_1024x1024.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>4</xmin>
+      <ymin>36</ymin>
+      <xmax>140</xmax>
+      <ymax>438</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>153</xmin>
+      <ymin>63</ymin>
+      <xmax>299</xmax>
+      <ymax>575</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>323</xmin>
+      <ymin>48</ymin>
+      <xmax>459</xmax>
+      <ymax>592</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>491</xmin>
+      <ymin>21</ymin>
+      <xmax>635</xmax>
+      <ymax>558</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>654</xmin>
+      <ymin>31</ymin>
+      <xmax>795</xmax>
+      <ymax>582</ymax>
+    </bndbox>
+  </object>
+</annotation>

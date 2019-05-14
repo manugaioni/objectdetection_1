@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>hunting-dog-brittany-spaniel-playing-450w-699846523</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\hunting-dog-brittany-spaniel-playing-450w-699846523.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>43</xmin>
+      <ymin>49</ymin>
+      <xmax>678</xmax>
+      <ymax>469</ymax>
+    </bndbox>
+  </object>
+</annotation>

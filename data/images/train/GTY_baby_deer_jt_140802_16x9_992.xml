@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>GTY_baby_deer_jt_140802_16x9_992</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\GTY_baby_deer_jt_140802_16x9_992.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cervo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>200</xmin>
+      <ymin>62</ymin>
+      <xmax>526</xmax>
+      <ymax>577</ymax>
+    </bndbox>
+  </object>
+</annotation>

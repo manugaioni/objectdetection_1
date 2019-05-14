@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>image-74879-galleryV9-jpkk-74879</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\image-74879-galleryV9-jpkk-74879.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cinghiale</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>192</xmin>
+      <ymin>26</ymin>
+      <xmax>662</xmax>
+      <ymax>573</ymax>
+    </bndbox>
+  </object>
+</annotation>

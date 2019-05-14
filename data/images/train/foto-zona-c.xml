@@ -1,0 +1,50 @@
+<annotation>
+  <folder>train</folder>
+  <filename>foto-zona-c</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\foto-zona-c.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>69</xmin>
+      <ymin>267</ymin>
+      <xmax>231</xmax>
+      <ymax>376</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>529</xmin>
+      <ymin>314</ymin>
+      <xmax>697</xmax>
+      <ymax>411</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cacciatore</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>253</xmin>
+      <ymin>32</ymin>
+      <xmax>414</xmax>
+      <ymax>449</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,62 @@
+<annotation>
+  <folder>train</folder>
+  <filename>Gianni-e-la-sua-muta-di-segugi-italiani-</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\Gianni-e-la-sua-muta-di-segugi-italiani-.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>5</xmin>
+      <ymin>232</ymin>
+      <xmax>121</xmax>
+      <ymax>461</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>442</xmin>
+      <ymin>279</ymin>
+      <xmax>570</xmax>
+      <ymax>474</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>190</xmin>
+      <ymin>293</ymin>
+      <xmax>354</xmax>
+      <ymax>597</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cacciatore</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>105</xmin>
+      <ymin>68</ymin>
+      <xmax>380</xmax>
+      <ymax>345</ymax>
+    </bndbox>
+  </object>
+</annotation>

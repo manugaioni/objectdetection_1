@@ -1,0 +1,50 @@
+<annotation>
+  <folder>train</folder>
+  <filename>imagecani-cinghiale</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\imagecani-cinghiale.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cinghiale</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>447</xmin>
+      <ymin>82</ymin>
+      <xmax>744</xmax>
+      <ymax>545</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>118</xmin>
+      <ymin>321</ymin>
+      <xmax>279</xmax>
+      <ymax>559</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>7</xmin>
+      <ymin>301</ymin>
+      <xmax>118</xmax>
+      <ymax>558</ymax>
+    </bndbox>
+  </object>
+</annotation>
