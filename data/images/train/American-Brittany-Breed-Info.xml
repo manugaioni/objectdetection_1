@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>American-Brittany-Breed-Info</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\American-Brittany-Breed-Info.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>184</xmin>
+      <ymin>99</ymin>
+      <xmax>674</xmax>
+      <ymax>546</ymax>
+    </bndbox>
+  </object>
+</annotation>

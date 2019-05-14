@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>7927629_f43b9b90-d831-11e8-92d5-b60b96743edd-1_1000x625</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\7927629_f43b9b90-d831-11e8-92d5-b60b96743edd-1_1000x625.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cinghiale</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>179</xmin>
+      <ymin>230</ymin>
+      <xmax>547</xmax>
+      <ymax>489</ymax>
+    </bndbox>
+  </object>
+</annotation>
