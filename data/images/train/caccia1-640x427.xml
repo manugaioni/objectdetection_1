@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>caccia1-640x427</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\caccia1-640x427.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cacciatore</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>412</xmin>
+      <ymin>145</ymin>
+      <xmax>651</xmax>
+      <ymax>600</ymax>
+    </bndbox>
+  </object>
+</annotation>

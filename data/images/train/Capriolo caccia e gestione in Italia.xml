@@ -1,0 +1,38 @@
+<annotation>
+  <folder>train</folder>
+  <filename>Capriolo caccia e gestione in Italia</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\Capriolo caccia e gestione in Italia.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cacciatore</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>300</xmin>
+      <ymin>51</ymin>
+      <xmax>612</xmax>
+      <ymax>491</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cervo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>66</xmin>
+      <ymin>340</ymin>
+      <xmax>486</xmax>
+      <ymax>592</ymax>
+    </bndbox>
+  </object>
+</annotation>

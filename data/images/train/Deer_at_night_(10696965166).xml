@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>Deer_at_night_(10696965166)</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\Deer_at_night_(10696965166).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cervo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>317</xmin>
+      <ymin>100</ymin>
+      <xmax>535</xmax>
+      <ymax>362</ymax>
+    </bndbox>
+  </object>
+</annotation>

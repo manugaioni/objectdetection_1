@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>CDY_0015</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\CDY_0015.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cervo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>374</xmin>
+      <ymin>217</ymin>
+      <xmax>796</xmax>
+      <ymax>526</ymax>
+    </bndbox>
+  </object>
+</annotation>

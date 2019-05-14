@@ -1,0 +1,50 @@
+<annotation>
+  <folder>train</folder>
+  <filename>cinghiale-con-segugi-in-seguita</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\cinghiale-con-segugi-in-seguita.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cinghiale</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>347</xmin>
+      <ymin>100</ymin>
+      <xmax>755</xmax>
+      <ymax>477</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>107</xmin>
+      <ymin>308</ymin>
+      <xmax>240</xmax>
+      <ymax>432</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>11</xmin>
+      <ymin>294</ymin>
+      <xmax>103</xmax>
+      <ymax>382</ymax>
+    </bndbox>
+  </object>
+</annotation>
