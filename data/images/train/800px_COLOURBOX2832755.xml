@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>800px_COLOURBOX2832755</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\800px_COLOURBOX2832755.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cinghiale</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>181</xmin>
+      <ymin>333</ymin>
+      <xmax>451</xmax>
+      <ymax>537</ymax>
+    </bndbox>
+  </object>
+</annotation>

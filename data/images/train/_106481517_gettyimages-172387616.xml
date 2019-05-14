@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>_106481517_gettyimages-172387616</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\_106481517_gettyimages-172387616.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cervo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>130</xmin>
+      <ymin>1</ymin>
+      <xmax>792</xmax>
+      <ymax>597</ymax>
+    </bndbox>
+  </object>
+</annotation>

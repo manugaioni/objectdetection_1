@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>832d2ca693b7226086404d584e45e64b--german-short-hair-french-brittany</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\832d2ca693b7226086404d584e45e64b--german-short-hair-french-brittany.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>94</xmin>
+      <ymin>51</ymin>
+      <xmax>659</xmax>
+      <ymax>539</ymax>
+    </bndbox>
+  </object>
+</annotation>
