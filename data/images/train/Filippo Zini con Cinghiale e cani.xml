@@ -1,0 +1,50 @@
+<annotation>
+  <folder>train</folder>
+  <filename>Filippo Zini con Cinghiale e cani</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\Filippo Zini con Cinghiale e cani.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>395</xmin>
+      <ymin>319</ymin>
+      <xmax>797</xmax>
+      <ymax>600</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cinghiale</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>146</xmin>
+      <ymin>314</ymin>
+      <xmax>398</xmax>
+      <ymax>473</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cacciatore</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>258</xmin>
+      <ymin>35</ymin>
+      <xmax>544</xmax>
+      <ymax>328</ymax>
+    </bndbox>
+  </object>
+</annotation>

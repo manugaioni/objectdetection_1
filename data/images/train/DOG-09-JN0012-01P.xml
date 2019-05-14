@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>DOG-09-JN0012-01P</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\DOG-09-JN0012-01P.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cane da caccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>218</xmin>
+      <ymin>160</ymin>
+      <xmax>633</xmax>
+      <ymax>438</ymax>
+    </bndbox>
+  </object>
+</annotation>
